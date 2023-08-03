@@ -1,8 +1,3 @@
-<!--- CARD BEGIN --->
+# GoHugo Component / Humans
 
-![DNB-Hugo/HEAD](.github/github-card-dark.png#gh-dark-mode-only)
-![DNB-Hugo/HEAD](.github/github-card-light.png#gh-light-mode-only)
-
-<!--- CARD END --->
-
-# DNB GoHugo Component / Humans
+This module moved into the mono repo at [davidsneighbour/hugo-modules](https://github.com/davidsneighbour/hugo-modules/tree/main/modules/humans).
